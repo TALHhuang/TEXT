@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TEXT.iml" filepath="$PROJECT_DIR$/TEXT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linearlayout/linearlayout.iml" filepath="$PROJECT_DIR$/linearlayout/linearlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/relativelayout/relativelayout.iml" filepath="$PROJECT_DIR$/relativelayout/relativelayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tablelayout/tablelayout.iml" filepath="$PROJECT_DIR$/tablelayout/tablelayout.iml" />
+    </modules>
+  </component>
+</project>
